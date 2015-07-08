@@ -67,17 +67,22 @@ there are four kinds of accounts in Startbahn
 
 All users can
 
-*
-*
+1. follow accounts
+2. edit their own profile
+3. thumb up or down reviews
+4. search Startbahn
+5. mark works,reviews,threads and events
+6. read works,reviews,threads and events
+7. quit Startbahn
 
-General Accounts can
-*
-*
-Artist Accounts can
-*
-Reviewer Accounts can
-*
-Collector Accounts can
+
+General accounts can
+* change General Accounts to artist,reviewer or collector account
+Artist accounts can
+* register works
+Reviewer accounts can
+* review works
+Collector accounts can
 *
 
 
@@ -85,5 +90,6 @@ Collector Accounts can
 ## Follow and Mark
 
 ##Auctions
-*Primary Auction
-*Secondary Auction
+There are two kinds of auctions
+* Primary Auction
+* Secondary Auction
