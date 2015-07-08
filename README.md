@@ -57,3 +57,33 @@ There are a few different ways you can download startbahn app:
 * login using:
   username: admin@startbahn.jp
   password: password
+
+## Accounts
+there are four kinds of accounts in Startbahn
+* General
+* Artist
+* Reviewer
+* Collector
+
+All users can
+
+*
+*
+
+General Accounts can
+*
+*
+Artist Accounts can
+*
+Reviewer Accounts can
+*
+Collector Accounts can
+*
+
+
+
+## Follow and Mark
+
+##Auctions
+*Primary Auction
+*Secondary Auction
