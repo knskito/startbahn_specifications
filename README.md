@@ -76,23 +76,24 @@ All users can
 * make or read threads in Forum
 * post or read events
 * send invitations
-* quit Startbahn
+* withdraw from Startbahn
 
 
 General accounts can
 * change the accounts to artist, reviewer or collector account
 
 Artist accounts can
-* register works and edit its infomation
+* register works, edit its infomation and remove works
 * put their works up for Primary Auction
 
 
 Reviewer accounts can
 * review works
-* 
+* edit or remove their review
 
 
 Collector accounts can
+* bid at Primary and Secondary Auction
 * put their collections up for Primary Auction
 
 
