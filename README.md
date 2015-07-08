@@ -67,23 +67,33 @@ there are four kinds of accounts in Startbahn
 
 All users can
 
-1. follow accounts
-2. edit their own profile
-3. thumb up or down reviews
-4. search Startbahn
-5. mark works,reviews,threads and events
-6. read works,reviews,threads and events
-7. quit Startbahn
+* follow accounts
+* edit their own profile
+* thumb up or down reviews
+* search Startbahn
+* mark works,reviews,threads and events
+* post comments
+* make or read threads in Forum
+* post or read events
+* send invitations
+* quit Startbahn
 
 
 General accounts can
-* change General Accounts to artist,reviewer or collector account
+* change the accounts to artist, reviewer or collector account
+
 Artist accounts can
-* register works
+* register works and edit its infomation
+* put their works up for Primary Auction
+
+
 Reviewer accounts can
 * review works
+* 
+
+
 Collector accounts can
-*
+* put their collections up for Primary Auction
 
 
 
