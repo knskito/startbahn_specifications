@@ -57,3 +57,50 @@ There are a few different ways you can download startbahn app:
 * login using:
   username: admin@startbahn.jp
   password: password
+
+## Accounts
+there are four kinds of accounts in Startbahn
+* General
+* Artist
+* Reviewer
+* Collector
+
+All users can
+
+* follow accounts
+* edit their own profile
+* thumb up or down reviews
+* search Startbahn
+* mark works,reviews,threads and events
+* post comments
+* make or read threads in Forum
+* post or read events
+* send invitations
+* withdraw from Startbahn
+
+
+General accounts can
+* change the accounts to artist, reviewer or collector account
+
+Artist accounts can
+* register works, edit its infomation and remove works
+* put their works up for Primary Auction
+
+
+Reviewer accounts can
+* review works
+* edit or remove their review
+
+
+Collector accounts can
+* bid at Primary and Secondary Auction
+* put their collections up for Primary Auction
+
+
+
+## Follow and Mark
+
+##Auctions
+There are two kinds of auctions
+* Primary Auction
+* Secondary Auction
