@@ -15,7 +15,7 @@ startbahn is composed of the following four accounts.
 * **General**
 * **Artist**
 * **Reviewer**
-* **Collector**  
+* **Collector**
 <!--Pictogram would be here for intuitive understanding.-->  
 
 We can choose only one account and cannot change the role after the decision, except General account.  
@@ -49,13 +49,13 @@ We can choose only one account and cannot change the role after the decision, ex
 * resale their collections on Secondary Auction.
 
 Functions on each accounts are explicitly differentiated according to the real art market.  
-We believe artistic value can be incremented online by their interaction.  
+We believe artistic value can be incremented online by their interaction.
 <!--Pictogram would be here for intuitive understanding.-->
 
 ##1.2. Auctions
 Posted artworks can be circulated through the following two auctions in startbahn.
 * **Primary Auction**
-* **Secondary Auction**
+* **Secondary Auction**  
 <!--Pictogram would be here for intuitive understanding.-->  
 
 ###Primary Auction
@@ -67,17 +67,31 @@ Posted artworks can be circulated through the following two auctions in startbah
 ###Secondary Auction
 * The auction for **Collectors as both the seller and the bidder**.
 * All bids are opened that every accounts can check the bidder, price and the number of bids.
-* **The Collector who bidded the highest price is automatically selected as the buyer at the end of auction.**
+* **Collector who bidded the highest price is automatically selected as the buyer at the end of auction.**
 
-Primary Auction is a kind of substitution for gallery system in the real art market; it can prevent from excessive deals just for the short-term profit and can contribute to the development of artistic value in circulated artworks combined with the following re-distribution system.
+Primary Auction is a kind of substitution for gallery system in the real art market; it can prevent from excessive deals just for the short-term profit and can contribute to the development of artistic value in circulated artworks combined with the following re-distribution system.  
 <!--Pictogram would be here for intuitive understanding.-->  
 
 ##<a name="rd_system">1.3. Re-Distribution System
-### 
-### Rates
+Re-distribution system is one of the most unique and important functions in startbahn which can refund the fraction of resale value to artist and reviewer.
+
+### The Model
+<!--Pictogram would be here for intuitive understanding.-->  
+
+### Distribution Rates
+||Artist|Reviewer|Startbahn, Inc|
+|:---:|:---:|:---:|:---:|
+|Primary Auction|-|7%|5%|
+|Seconday Auction|0%~20%|5%|7%|
+* **Distribution rate for Artists fluctuates from zero to twenty percent depending on their activities in startbahn.**
+    * Determinants and deriving method of the rate are confident.
+* If artworks with no reviews would be sold in Auction, startbahn,inc could get refunds originally for Reviewer. (That is, distribution rate for startbahn, inc becomes 12% in both Primary and Secondary Auctions.)
 
 ##1.4. Other Characteristics
 ### Follow and Mark
+### Explore
+### Forum
+### invitation
 
 ##1.5. Terms
 ### Terms of Use
@@ -85,7 +99,7 @@ Primary Auction is a kind of substitution for gallery system in the real art mar
 ### FAQ
 
 ##Appendix
-
+### Repository for Images
 
 
 #<a name="install">2. Install
