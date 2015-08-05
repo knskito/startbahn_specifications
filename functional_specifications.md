@@ -5,22 +5,21 @@ startbahn is a service optimized for art communities which includes both social 
 ##Outline
 1. [Registration](#)
 2. [SNS](#specifications)
-
-5. [Follow and Marks](#)
-6. [](#)
+3. [Follow and Marks](#)
+4. [](#)
 5. [Portfolio](#install)
 6. 
 7. [Auctions](#contribution)
 8. [Others](#license)
-9.
+9. 
 ====
 
-**2.SNS**
+##2.SNS
 ====
-2.1.1 [Accounts](#)
+###2.1[Accounts](#)
 
-2.1.2 [Profile](#)
+###2.1.1 [Profile](#)
 
-2.1.3 [](#)
+###2.1.2 [](#)
 
-2.2 [Explore](#)
+###2.2 [Explore](#)
