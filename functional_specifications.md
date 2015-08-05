@@ -13,8 +13,10 @@ startbahn is a service optimized for art communities which includes both social 
 ##2.SNS
 
 ###2.1アカウントの種類
+
 ###2.2 プロフィールと設定
 ####ユーザー情報
+####ユーザー種別の変更
 ####お届け先情報
 ####パスワード変更
 ####プライバシー設定
@@ -29,11 +31,11 @@ startbahn is a service optimized for art communities which includes both social 
 
 ###2.6 サインアウト、サインイン
 
-###2.7[Explore]
-###2.8[通知]
-###2.9[Forum]
-###2.10 [Post]
+###2.7 Explore
+###2.8 通知
+###2.9 Forum
+###2.10 Post
 
-##3. Portfolio)
+##3. Portfolio
 ##4. Auctions
 ##5. Others
