@@ -91,21 +91,18 @@ Re-distribution system is one of the most unique and important functions in star
 ##<a name="others">4. Other Characteristics
 ### Follow and Mark
 <!--Pictogram would be here for intuitive understanding.-->  
-* スタートバーンでは気になるユーザーをフォローすることができます。フォローしたユーザーがコンテンツを投稿したときタイムラインに表示されます
-* スタートバーンでは気になる作品をマークすることができます。マークした作品に何らかのアクティビティがあった場合マーク欄に通知されます
-* 
+* スタートバーンでは気になるユーザーをフォローすることができます。フォローしたユーザーがコンテンツを投稿したときタイムラインに表示されます.
+* スタートバーンでは気になる作品をマークすることができます。マークした作品に何らかのアクティビティがあった場合マーク欄に通知されます.
 ### Explore
 
 <!--Pictogram would be here for intuitive understanding.-->  
-* 最近投稿されたコンテンツを探すことができます
-* 
+* 最近投稿されたコンテンツを探すことができます.
 ### Forum
 
 <!--Pictogram would be here for intuitive understanding.-->  
-* フォーラムでは既存のスレッドに書き込みをすることや新規にスレッドを立てることで他のユーザーと交流することができます
-* 
+* フォーラムでは既存のスレッドに書き込みをすることや新規にスレッドを立てることで他のユーザーと交流することができます.
 ### Invitation
-* あなたの知り合いをStartbahnに招待することができます
+* あなたの知り合いをStartbahnに招待することができます.
 
 ##<a name="terms">5. Terms
 ### Terms of Use
