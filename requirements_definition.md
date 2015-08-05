@@ -15,6 +15,7 @@ startbahn is composed of the following four accounts.
 * **Artist**
 * **Reviewer**
 * **Collector**
+
 <!--Pictogram would be here for intuitive understanding.-->  
 
 We can choose only one account and cannot change the role after the decision, except General account.  
