@@ -42,10 +42,17 @@ startbahn is a service optimized for art communities which includes both social 
 #### 4.1. Primary Auction
 #### 4.2. Secondary Auction
 ####4.3.出品
-4.4入札
-4.5落札
-4.5取引
-4.6取引成立後
-
+####4.4オークションの編集
+####4.5入札
+####4.6落札
+####4.7ベストレビュアー
+####4.8取引
+  #####4.8.1.発送方法
+  #####4.8.2.発送
+  #####4.8.3.受け取り
+####4.9評価
+####4.10出品中止
+####4.11.取引中止
+####4.12.還元システム
 
 ##5. Others
