@@ -37,5 +37,15 @@ startbahn is a service optimized for art communities which includes both social 
 ###2.10 Post
 
 ##3. Portfolio
+
 ##4. Auctions
+#### 4.1. Primary Auction
+#### 4.2. Secondary Auction
+####4.3.出品
+4.4入札
+4.5落札
+4.5取引
+4.6取引成立後
+
+
 ##5. Others
