@@ -12,8 +12,11 @@ startbahn is a service optimized for art communities which includes both social 
 ###1.1メールアドレス登録
 ###1.2アカウントの種別決定
   ####- 1. ジェネラル
+  
   ####- 2. アーティスト
+  
   ####- 3. レビュアー
+  
   ####- 4. コレクター
   
 ##2.SNS
