@@ -15,6 +15,7 @@ startbahn is a service optimized for art communities which includes both social 
   - 1.2.2アーティスト
   - 1.2.3レビュアー
   - 1.2.4コレクター
+  
 ##2.SNS
 ###2.1.アカウントの種類
 ###2.2. プロフィールと設定
