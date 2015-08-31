@@ -1,4 +1,4 @@
-**startbahn (ver0.1.0)**
+**startbahn (ver 0.1.0)**
 ====
 startbahn is a service optimized for art communities which includes both social networking service (SNS) and online auction.
 
