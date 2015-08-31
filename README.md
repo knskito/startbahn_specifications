@@ -1,21 +1,21 @@
-**startbahn**
+**startbahn (ver0.1.0)**
 ====
 startbahn is a service optimized for art communities which includes both social networking service (SNS) and online auction.
 
 ##Outline
-1. [Specifications](#specifications)
-2. [Install](#install)
-3. [Contribution](#contribution)
-4. [License](#license)
+1. [Accounts](#accounts)
+2. [Auctions](#auctions)
+3. [Re-Distribution System](#rd_system)
+4. [Other Characteristics](#others)
+5. [Terms](#terms)
 
-#<a name="specifications">1. Specifications
-
-## 1.1 Accounts
+##<a name="accounts">1. Accounts
 startbahn is composed of the following four accounts.
 * **General**
 * **Artist**
 * **Reviewer**
 * **Collector**
+
 <!--Pictogram would be here for intuitive understanding.-->  
 
 We can choose only one account and cannot change the role after the decision, except General account.  
@@ -52,7 +52,7 @@ Functions on each accounts are explicitly differentiated according to the real a
 We believe artistic value can be incremented online by their interaction.
 <!--Pictogram would be here for intuitive understanding.-->
 
-##1.2. Auctions
+##<a name="auctions">2. Auctions
 Posted artworks can be circulated through the following two auctions in startbahn.
 * **Primary Auction**
 * **Secondary Auction**  
@@ -72,10 +72,11 @@ Posted artworks can be circulated through the following two auctions in startbah
 Primary Auction is a kind of substitution for gallery system in the real art market; it can prevent from excessive deals just for the short-term profit and can contribute to the development of artistic value in circulated artworks combined with the following re-distribution system.  
 <!--Pictogram would be here for intuitive understanding.-->  
 
-##<a name="rd_system">1.3. Re-Distribution System
+##<a name="rd_system">3. Re-Distribution System
 Re-distribution system is one of the most unique and important functions in startbahn which can refund the fraction of resale value to artist and reviewer.
 
 ### The Model
+
 <!--Pictogram would be here for intuitive understanding.-->  
 
 ### Distribution Rates
@@ -87,98 +88,39 @@ Re-distribution system is one of the most unique and important functions in star
     * Determinants and deriving method of the rate are confident.
 * If artworks with no reviews would be sold in Auction, startbahn,inc could get refunds originally for Reviewer. (That is, distribution rate for startbahn, inc becomes 12% in both Primary and Secondary Auctions.)
 
-##1.4. Other Characteristics
+##<a name="others">4. Other Characteristics
 ### Follow and Mark
+<!--Pictogram would be here for intuitive understanding.-->  
+
 ### Explore
+<!--Pictogram would be here for intuitive understanding.-->  
+
 ### Forum
-### invitation
+<!--Pictogram would be here for intuitive understanding.-->  
 
-##1.5. Terms
+### Invitation
+
+##<a name="terms">5. Terms
 ### Terms of Use
+* Terms of Use is regularly updated for adapting social situation.
+* All differentials are stored in <a href>Github</a>.
+
 ### Privacy Policy
+* Privacy Policy is regularly updated for adapting social situation.
+* All differentials are stored in <a href>Github</a>.
+
 ### FAQ
+* FAQ is regularly updated for reflecting customer's feedback.
+* All differentials are stored in <a href>Github</a>.
 
-##Appendix
+##<a name="appendix">Appendix
 ### Repository for Images
+* Images posted on this document are all stored in <a href="">Github</a>.
+
+### More Detail Specifications
+* If you would like to know more detailed specifications, please see <a href="">functional_specifications</a>.
+    * Access right is restricted only for internal developers.
 
 
-#<a name="install">2. Install
 
-## 2.1 Source Code
-There are a few different ways you can download startbahn app:
-* Download the zip file from the [release] (https://github.com/startbahn/startbahn/releases/)
-* Checkout the source: `git clone https://github.com/startbahn/startbahn.git`
-
-## 2.2 Pre Installation
-* Install rbenv & ruby-build
-  for MacOS X
-  `brew install rbenv ruby-build`
-* Install ruby with rbenv
-  `rbenv install 2.2.2`
-* Install npm
-  for MacOS X
-  `brew install node`
-* Install bower
-  `npm install bower -g`
-* Install qt for capybara-webkit
-  for MacOS X
-  `brew install qt`
-* Install redis
-  for MacOS X
-  `brew install redis`
-
-## 2.3 Installation
-* Extract the installer
-* Go to startbahn folder
-* install required gems:
-  `bundle install`
-* start mysql server
-  `mysql.server start`
-* install foreman:
-   `gem install foreman`
-* configure the installation, use the .yml.configuration inside config folder as a template:
-  `./script/init_config_ymls.sh`
-  or copy file manually
-  `cp database.yml.example database.yml`
-  `cp paypal.yml.example paypal.yml`
-  `cp startbahn.yml.example startbahn.yml`
-
-  Please ask the admin for aws secret key
-* install bower dependency:
-  `bundle exec rake bower:install`
-* create, install the database and add administrator account:
-  `bundle exec rake db:create db:migration db:seed`
-
-
-## 2.4 Startup
-* foreman  will start redis-server, sidekiq and web server. Run the foreman by:
-  `foreman start`
-* open app in web browser: http://localhost:3000
-* login using:
-  username: admin@startbahn.jp
-  password: password
-
-#<a name="contribution">3. Contribution
-
-#<a name="license">4. License
-The MIT License (MIT)
-
-Copyright (c) 2015 startbahn,Inc
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+the end of document
